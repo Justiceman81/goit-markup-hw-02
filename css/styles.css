@@ -1,0 +1,117 @@
+/* Typography */
+body {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5em;
+  letter-spacing: 0.02em;
+  color: #434455;
+  background-color: #fff;
+}
+h1 {
+  font-size: 3.5em;
+  font-weight: 700;
+  line-height: 3.75em;
+}
+h2 {
+  font-size: 2.25em;
+  font-weight: 700;
+}
+h3 {
+  font-size: 1.25em;
+  font-weight: 500;
+}
+.text-small {
+  font-size: 0.75em;
+  letter-spacing: 0.04em;
+  line-height: 0.875em;
+}
+.fw-medium {
+  font-weight: 500;
+}
+.text-button {
+  letter-spacing: 0.04em;
+  font-weight: 500;
+}
+.text-link {
+  font-size: 0.75em;
+  letter-spacing: 0.04em;
+  text-decoration: underline;
+}
+/* Colors */
+.text-primary {
+  color: #4d5ae5;
+}
+.text-pressed {
+  color: #404bbf;
+}
+.text-dark {
+  color: #2e2f42;
+}
+.text-success {
+  color: #31d0aa;
+}
+.text-subtle {
+  color: #8e8f99;
+}
+.bg-accent {
+  background-color: #e7e9fc;
+}
+.bg-light {
+  background-color: #f4f4fd;
+}
+.bg-overlay-modal {
+  background-color: #2e2f42;
+}
+.bg-hero {
+  background-color: 2e2F42;
+}
+.bg-white {
+  background-color: #fff;
+}
+.bg-modal {
+  background-color: #fcfcfc;
+}
+
+/* Logo */
+.logo {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.16667;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+}
+
+/* Navigation */
+
+/* Buttons */
+
+/* Team Card */
+
+/* Footer */
+
+/* Project Card */
+
+/* Modal */
+.logoname-blue-part {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.16667;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #4d5ae5;
+}
+.logoname-black-part {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.16667;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #2e2f42;
+}
+button {
+  cursor: pointer;
+}
