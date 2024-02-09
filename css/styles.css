@@ -127,3 +127,11 @@ h3 {
 button {
   cursor: pointer;
 }
+.menu-link :hover,
+.menu-link :focus {
+  color: #404bbf;
+}
+.page-menu :hover,
+.page-menu :focus {
+  color: #404bbf;
+}
