@@ -8,6 +8,18 @@ body {
   color: #434455;
   background-color: #fff;
 }
+/* Resets */
+ul,
+ol {
+  list-style-type: none;
+}
+a {
+  text-decoration: none;
+}
+img {
+  display: block;
+}
+/* Topography 1 */
 h1 {
   font-size: 3.5em;
   font-weight: 700;
