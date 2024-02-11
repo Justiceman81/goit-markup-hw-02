@@ -93,7 +93,6 @@ img {
   line-height: 1.11;
   letter-spacing: 0.02em;
   text-transform: capitalize;
-  text-align: center;
   color: #2e2f42;
 }
 .team-name {
@@ -101,14 +100,12 @@ img {
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
-  text-align: center;
   color: #2e2f42;
 }
 .team-prof {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  text-align: center;
   color: #434455;
 }
 /* Section 3 */
@@ -126,7 +123,6 @@ img {
   color: #434455;
 }
 /* Footer */
-
 .footer-text {
   font-size: 16px;
   line-height: 1.5;
